@@ -1,0 +1,76 @@
+*{
+  background-repeat:no-repeat ;
+}
+svg{
+  margin-left: 185px;
+  margin-top: -160
+}
+
+h1{
+    padding-left: 190px;
+    line-height:  0.4;
+   
+   
+  }
+img{
+    padding-left: 305px;
+}
+.sloganh1{
+  font-size: 50px ;
+  padding-right: 50;
+  margin-top: -630px;
+  letter-spacing: 21px;
+  font-style: inherit;
+  color:  rgb(254, 197, 175);
+  font-family: 'Alegreya Sans SC', sans-serif;
+
+}
+.sloganh2{
+  font-size: 55px ;
+  font-weight: bolder;
+  letter-spacing: 17px;
+  font-style: inherit;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;     
+}
+.sloganh3{
+  font-size: 60px ;
+  font-weight: bolder; 
+  letter-spacing: 16px;
+  font-style: inherit;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+}
+
+p{
+  padding-left: 195px;
+  margin-top: -278px;
+  width: 520px;
+  font-family: 'Cagliostro', sans-serif;
+  word-spacing: 4;
+  color: rgb(222, 123, 84);
+  font-style: unset;
+}
+.email{
+  
+  border-radius: 28px;
+  margin-left: 190px;
+  align-items: center;
+  padding-left: 20px;
+  border-color: rgb(254, 197, 175);
+  border-width: 1px;
+  height: 54px;
+  margin-top: 40;
+  width: 510px;
+}
+#btn{
+  border-radius: 28px;
+  height: 54px;
+  margin-bottom: ;
+  width:100px;
+  padding-left: 10px;
+  border-color: rgb(254, 197, 175);
+  margin-left: -104px;
+  background-color: rgb(254, 197, 175);
+}
+.id{
+  content: icon;
+}
